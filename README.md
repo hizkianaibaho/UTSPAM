@@ -9,6 +9,9 @@ Aplikasi ini bernama "CalcuMini"
 
 Aplikasi ini merupakan aplikasi kalkulator sederhana yang dimana mempunyai fitur yang tidak terlalu luas. Fitur yang dimiliki berupa Tambah, kurang, kali, bagi, hapus dan result.
 
+## Daftar Package Expo yang Digunakan
+- expo-font
+- expo-status-bar
 
 ## Link Download
 
