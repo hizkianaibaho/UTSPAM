@@ -3,7 +3,7 @@
 
 ## 🚀 Nama Aplikasi
 
-Aplikasi ini bernama "CalcuMini"
+Aplikasi ini bernama " CalcuMini "
 
 ## Deskripsi Aplikasi
 
